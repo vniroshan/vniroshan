@@ -5,12 +5,14 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [Youtube](https://www.youtube.com/c/niroshmediaR)
-- 🌱 I’m currently learning ... Laravel
+- 🔭 I’m currently working on: [Youtube](https://www.youtube.com/c/niroshmediaR)
+- 🌱 I’m currently learning: Laravel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/niroshanrajh)
+- 💬 Ask me about: Anything
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/niroshanrajh)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm Busy
+
+![Niroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vniroshan&show_icons=true&theme=tokyonight)
 
