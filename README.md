@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/vniroshan/vniroshan)](https://github.com/vniroshan)
 
 - 🔭 I’m currently working on: [Youtube](https://www.youtube.com/c/niroshmediaR)
 - 🌱 I’m currently learning: Laravel
