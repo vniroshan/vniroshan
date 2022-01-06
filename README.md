@@ -2,7 +2,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/vniroshan/vniroshan)](https://github.com/vniroshan)
 
 - 🔭 I’m currently working on: [Youtube](https://www.youtube.com/c/niroshmediaR)
-- 🌱 I’m currently learning: Laravel
+- 🌱 I’m currently learning: Fastify
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Anything
@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
