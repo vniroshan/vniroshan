@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/vniroshan/vniroshan)](https://github.com/vniroshan)
+![Visits Badge](https://komarev.com/ghpvc/?username=vniroshan&color=green)
 
 - 🔭 I’m currently working on: [Hamochi](https://www.hamochi.my/)
 - 🌱 I’m currently learning: Flutter
