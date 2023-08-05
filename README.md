@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Fastify
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about: Anything
+- 💬 Ask me about Anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/niroshanrajh)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Busy
@@ -27,5 +27,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vniroshan&langs_count=5&theme=tokyonight)]()
 [![Niroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vniroshan&show_icons=true&theme=tokyonight)]()
+![](https://raw.githubusercontent.com/vniroshan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vniroshan/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
