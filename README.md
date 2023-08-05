@@ -1,13 +1,10 @@
 ### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/vniroshan/vniroshan)](https://github.com/vniroshan)
 
-- 🔭 I’m currently working on: [Youtube](https://www.youtube.com/c/niroshmediaR)
-- 🌱 I’m currently learning: Fastify
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on: [Hamochi](https://www.hamochi.my/)
+- 🌱 I’m currently learning: Flutter
 - 💬 Ask me about Anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/niroshanrajh)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Busy
 
 - ⚙️Skills
@@ -28,6 +25,5 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vniroshan&langs_count=5&theme=tokyonight)]()
 [![Niroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vniroshan&show_icons=true&theme=tokyonight)]()
 ![](https://raw.githubusercontent.com/vniroshan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vniroshan/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
